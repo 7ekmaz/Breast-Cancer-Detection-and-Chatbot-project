@@ -27,30 +27,10 @@ This project integrates **computer vision** and **natural language processing (N
 - **NLP & Chatbot:** Hugging Face RoBERTa, Custom Transformer, Deep Translator  
 - **Data Processing:** OpenCV, Pandas, NumPy  
 - **Web Deployment:** Flask, Streamlit  
-- **Visualization & Analytics:** Power BI  
-
-## **🚀 How to Run the Project**  
-
-### **1. Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/breast-cancer-detection-chatbot.git
-cd breast-cancer-detection-chatbot
-```
-
-### **2. Install Dependencies**  
-```bash
-pip install -r requirements.txt
-```
-
-### **3. Run the Flask Server**  
-```bash
-python app.py
-```
-
-### **4. Run the Streamlit Interface (Optional)**  
-```bash
-streamlit run chatbot.py
-```
 
 ## **📌 Project Impact**  
 This project demonstrates the potential of **AI in healthcare**, improving **early cancer detection** and making medical information **more accessible** through an **interactive chatbot**.  
+
+## **👥 Contributors**  
+- **[Kareem Wael Elhamy](https://github.com/7ekmaz)** - [GitHub](https://github.com/7ekmaz) | [LinkedIn](https://www.linkedin.com/in/kareem-wael-k918/)  
+- **[Azza Hassan Said](https://github.com/AzzaHassan17)** - [GitHub](https://github.com/AzzaHassan17) | [LinkedIn](https://www.linkedin.com/in/azza-hassan-40097a276)  
